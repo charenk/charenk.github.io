@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="870px" height="290px" viewBox="0 0 870 290" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFFFFF;">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>Summary_3ding</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="3Ding.in" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Summary_3ding">
+            <text id="2015---2017" font-family="Helvetica" font-size="20" font-weight="normal" letter-spacing="0.222222224" fill="#585858">
+                <tspan x="55" y="55">2015 - 2017</tspan>
+            </text>
+            <g id="Group" transform="translate(55.000000, 82.000000)">
+                <rect id="Rectangle-6" fill="#F8F8F8" x="0" y="0" width="158" height="177"></rect>
+                <text id="Work" font-family="Helvetica" font-size="20" font-weight="normal" letter-spacing="0.222222224" fill="#585858">
+                    <tspan x="55" y="38">Work</tspan>
+                </text>
+                <text id="Design-iterations" font-family="Helvetica" font-size="14" font-weight="normal" letter-spacing="0.2222222" fill="#585858">
+                    <tspan x="25.473416" y="77">Design iterations</tspan>
+                </text>
+            </g>
+            <g id="Group" transform="translate(229.000000, 82.000000)">
+                <rect id="Rectangle-6" fill="#F8F8F8" x="0" y="0" width="588" height="177"></rect>
+                <text id="Outcome" font-family="Helvetica" font-size="20" font-weight="normal" letter-spacing="0.222222224" fill="#585858">
+                    <tspan x="253.150933" y="36">Outcome</tspan>
+                </text>
+                <text id="Avg-time-on-page-inc" font-family="Helvetica" font-size="14" font-weight="normal" letter-spacing="0.2222222" fill="#585858">
+                    <tspan x="23.8662654" y="71">Avg time on page</tspan>
+                    <tspan x="48.6484376" y="88">increased </tspan>
+                    <tspan x="72.3847114" y="105">by</tspan>
+                </text>
+                <text id="Bounce-Rate-decrease" font-family="Helvetica" font-size="14" font-weight="normal" letter-spacing="0.2222222" fill="#585858">
+                    <tspan x="170.80561" y="72">Bounce Rate</tspan>
+                    <tspan x="178.810547" y="89">decreased </tspan>
+                    <tspan x="204.884711" y="106">by</tspan>
+                </text>
+                <text id="Products-Launched" font-family="Helvetica" font-size="14" font-weight="normal" letter-spacing="0.2222222" fill="#585858">
+                    <tspan x="286.290799" y="72">Products Launched</tspan>
+                </text>
+                <text id="Conversion-Rate-incr" font-family="Helvetica" font-size="14" font-weight="normal" letter-spacing="0.2222222" fill="#585858">
+                    <tspan x="444.695638" y="71">Conversion Rate</tspan>
+                    <tspan x="467.148438" y="88">increased </tspan>
+                    <tspan x="490.884711" y="105">by</tspan>
+                </text>
+            </g>
+            <text id="5" font-family="Helvetica" font-size="20" font-weight="normal" letter-spacing="0.2222222" fill="#585858">
+                <tspan x="128.327365" y="226">5</tspan>
+            </text>
+            <text id="8" font-family="Helvetica" font-size="20" font-weight="normal" letter-spacing="0.2222222" fill="#585858">
+                <tspan x="569.327365" y="226">8</tspan>
+            </text>
+            <text id="23%" font-family="Helvetica" font-size="20" font-weight="normal" letter-spacing="0.2222222" fill="#585858">
+                <tspan x="708.152018" y="226">23%</tspan>
+            </text>
+            <text id="16%" font-family="Helvetica" font-size="20" font-weight="normal" letter-spacing="0.2222222" fill="#585858">
+                <tspan x="288.152018" y="226">16%</tspan>
+            </text>
+            <text id="21%" font-family="Helvetica" font-size="20" font-weight="normal" letter-spacing="0.2222222" fill="#585858">
+                <tspan x="423.152018" y="226">21%</tspan>
+            </text>
+            <path d="M382.5,143.5 L382.5,241.5" id="Line" stroke="#C9C9C9" stroke-linecap="square"></path>
+            <path d="M498.5,143.5 L498.5,241.5" id="Line" stroke="#C9C9C9" stroke-linecap="square"></path>
+            <path d="M653.5,143.5 L653.5,241.5" id="Line" stroke="#C9C9C9" stroke-linecap="square"></path>
+        </g>
+    </g>
+</svg>

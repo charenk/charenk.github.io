@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="870px" height="400px" viewBox="0 0 870 400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFFFFF;">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>Process_3ding</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="3Ding.in" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Process_3ding">
+            <path d="M-33.4864877,187.5 L839.818628,187.5" id="Line" stroke="#B5B5B5" stroke-linecap="square"></path>
+            <path id="Line-decoration-1" d="M829.018628,190.5 L839.818628,187.5 L829.018628,184.5" stroke="#B5B5B5" stroke-linecap="square"></path>
+            <g id="flow-info" transform="translate(55.000000, 126.000000)">
+                <g id="Group-2" transform="translate(464.555556, 8.201681)" fill-opacity="0.5">
+                    <ellipse id="Oval" fill="#59DBA8" cx="51.9955947" cy="52.2857143" rx="51.9955947" ry="52.2857143"></ellipse>
+                    <ellipse id="Oval" fill="#D8D8D8" cx="193.801762" cy="53.3419913" rx="44.6426823" ry="44.8917749"></ellipse>
+                    <ellipse id="Oval" fill="#3AAEDF" cx="127.625551" cy="53.3419913" rx="41.4914342" ry="41.7229437"></ellipse>
+                </g>
+                <g id="Group" transform="translate(287.777778, 19.478992)" fill-opacity="0.5">
+                    <ellipse id="Oval" fill="#76E7E4" cx="41.6315464" cy="41.5210084" rx="41.6315464" ry="41.5210084"></ellipse>
+                    <ellipse id="Oval" fill="#25CCC7" cx="99.0725407" cy="40.995426" rx="31.618896" ry="31.5349431"></ellipse>
+                    <ellipse id="Oval" fill="#76E7E4" cx="148.373142" cy="40.995426" rx="26.34908" ry="26.2791192"></ellipse>
+                </g>
+                <g id="Group-3" transform="translate(0.000000, 9.226891)">
+                    <ellipse id="Oval" fill-opacity="0.4" fill="#FF3535" cx="51.5056818" cy="51.7731092" rx="51.5056818" ry="51.7731092"></ellipse>
+                    <ellipse id="Oval" fill-opacity="0.5" fill="#F26041" cx="103.536932" cy="52.3014063" rx="35.2130682" ry="35.3959012"></ellipse>
+                </g>
+                <g id="Group-4" transform="translate(139.777778, 32.806723)" fill-opacity="0.5">
+                    <ellipse id="Oval" fill="#FFD70E" cx="28.8739009" cy="29.2184874" rx="28.8739009" ry="29.2184874"></ellipse>
+                    <ellipse id="Oval" fill="#DCC553" cx="72.9722222" cy="29.2184874" rx="28.8739009" ry="29.2184874"></ellipse>
+                    <ellipse id="Oval" fill="#DCC553" cx="117.070544" cy="29.2184874" rx="28.8739009" ry="29.2184874"></ellipse>
+                </g>
+                <g id="Group-5" transform="translate(137.722222, 0.000000)" stroke-opacity="0.751500226" stroke="#323232" stroke-width="0.5" stroke-dasharray="4">
+                    <path d="M0.262066261,0 L0.262066261,122" id="Path-2"></path>
+                    <path d="M326.047135,0 L326.047135,122" id="Path-2"></path>
+                    <path d="M564.512066,0 L564.512066,122" id="Path-2"></path>
+                    <path d="M148.067437,0 L148.067437,122" id="Path-2"></path>
+                </g>
+            </g>
+            <g id="title" transform="translate(55.000000, 64.000000)" fill="#4F4F4F" font-size="14" font-family="Helvetica" font-weight="normal">
+                <text id="Interviews" line-spacing="18" letter-spacing="0.200000003">
+                    <tspan x="0" y="14.25">Interview</tspan>
+                    <tspan x="57.8205078" y="14.25" letter-spacing="0.100000001">s</tspan>
+                </text>
+                <text id="Brainstorming" line-spacing="15" letter-spacing="0.233333334">
+                    <tspan x="137.640362" y="16.2638889">Brainstorming </tspan>
+                </text>
+                <text id="Consumer-insights-st" line-spacing="18" letter-spacing="0.233333334">
+                    <tspan x="285.552393" y="14.5">Consumer insights </tspan>
+                    <tspan x="285.552393" y="32.5">study </tspan>
+                </text>
+                <text id="User-research" line-spacing="15" letter-spacing="0.233333334">
+                    <tspan x="463.252264" y="16.2638889">User research</tspan>
+                </text>
+                <text id="Prototyping-&amp;-Design" line-spacing="15" letter-spacing="0.233333334">
+                    <tspan x="699.500647" y="16.4722222">Prototyping &amp; </tspan>
+                    <tspan x="699.500647" y="31.4722222">Design</tspan>
+                </text>
+            </g>
+            <rect id="Rectangle" fill="#FFAEAE" x="55" y="54" width="30" height="4"></rect>
+            <rect id="Rectangle" fill="#FFEB86" x="194" y="54" width="30" height="4"></rect>
+            <rect id="Rectangle" fill="#70DFDB" x="342" y="54" width="30" height="4"></rect>
+            <rect id="Rectangle" fill="#ACEDD3" x="520" y="54" width="30" height="4"></rect>
+            <text id="Stakeholder-Intervie" font-family="Helvetica" font-size="10" font-weight="normal" line-spacing="13" letter-spacing="0.100000001" fill="#4F4F4F">
+                <tspan x="50.5308594" y="286">Stakeholder </tspan>
+                <tspan x="64.0853515" y="299">Interview</tspan>
+            </text>
+            <text id="Sales-data-analyis" font-family="Helvetica" font-size="10" font-weight="normal" line-spacing="13" letter-spacing="0.100000001" fill="#4F4F4F">
+                <tspan x="336.744141" y="285">Sales data</tspan>
+                <tspan x="353.17207" y="298">analyis</tspan>
+            </text>
+            <text id="Interviews" font-family="Helvetica" font-size="10" font-weight="normal" line-spacing="13" letter-spacing="0.100000001" fill="#4F4F4F">
+                <tspan x="525.985352" y="285">Interviews</tspan>
+            </text>
+            <text id="User-surveys" font-family="Helvetica" font-size="10" font-weight="normal" line-spacing="13" letter-spacing="0.100000001" fill="#4F4F4F">
+                <tspan x="589.455273" y="303">User surveys</tspan>
+            </text>
+            <text id="Usability-testing" font-family="Helvetica" font-size="10" font-weight="normal" line-spacing="13" letter-spacing="0.100000001" fill="#4F4F4F">
+                <tspan x="643.270703" y="328">Usability testing</tspan>
+            </text>
+            <text id="Google-analytics" font-family="Helvetica" font-size="10" font-weight="normal" line-spacing="13" letter-spacing="0.100000001" fill="#4F4F4F">
+                <tspan x="411.153906" y="303">Google </tspan>
+                <tspan x="404.19375" y="316">analytics</tspan>
+            </text>
+            <text id="Digital-Marketing-st" font-family="Helvetica" font-size="10" font-weight="normal" line-spacing="13" letter-spacing="0.100000001" fill="#4F4F4F">
+                <tspan x="463.511914" y="330">Digital</tspan>
+                <tspan x="447.19375" y="343">Marketing</tspan>
+                <tspan x="470.381836" y="356">stats</tspan>
+            </text>
+            <text id="Session-1" font-family="Helvetica" font-size="10" font-weight="normal" line-spacing="13" letter-spacing="0.100000001" fill="#4F4F4F">
+                <tspan x="181.183984" y="286">Session 1</tspan>
+            </text>
+            <text id="Session-2" font-family="Helvetica" font-size="10" font-weight="normal" line-spacing="13" letter-spacing="0.100000001" fill="#4F4F4F">
+                <tspan x="226.183984" y="303">Session 2</tspan>
+            </text>
+            <text id="Session-3" font-family="Helvetica" font-size="10" font-weight="normal" line-spacing="13" letter-spacing="0.100000001" fill="#4F4F4F">
+                <tspan x="269.183984" y="324">Session 3</tspan>
+            </text>
+            <text id="Review-meetings-with" font-family="Helvetica" font-size="10" font-weight="normal" line-spacing="13" letter-spacing="0.100000001" fill="#4F4F4F">
+                <tspan x="17.4945312" y="328">Review meetings with customer</tspan>
+                <tspan x="101.435742" y="341">support team</tspan>
+            </text>
+            <path d="M103.5,215.517857 L103.5,272.482143" id="Line-2" stroke="#FFAEAE" stroke-linecap="square"></path>
+            <path d="M223.5,215.517857 L223.5,272.482143" id="Line-2" stroke="#FFEB86" stroke-linecap="square"></path>
+            <path d="M268.5,205.512048 L268.5,289.487952" id="Line-2" stroke="#EDE2A8" stroke-linecap="square"></path>
+            <path d="M312.5,214.515957 L312.5,310.484043" id="Line-2" stroke="#EDE2A8" stroke-linecap="square"></path>
+            <path d="M383.5,222.51 L383.5,272.49" id="Line-2" stroke="#BAF3F1" stroke-linecap="square"></path>
+            <path d="M570.5,222.51 L570.5,272.49" id="Line-2" stroke="#ACEDD3" stroke-linecap="square"></path>
+            <path d="M646.5,215.513514 L646.5,290.486486" id="Line-2" stroke="#9CD6EE" stroke-linecap="square"></path>
+            <path d="M712.5,222.516484 L712.5,315.483516" id="Line-2" stroke="#EBEBEB" stroke-linecap="square"></path>
+            <path d="M490.5,205.513889 L490.5,315.490914" id="Line-2" stroke="#BAF3F1" stroke-linecap="square"></path>
+            <path d="M442.5,205.512048 L442.5,289.487952" id="Line-2" stroke="#92E5E2" stroke-linecap="square"></path>
+            <path d="M312.5,214.515957 L312.5,310.484043" id="Line-2" stroke="#EDE2A8" stroke-linecap="square"></path>
+            <path d="M159.5,208.514423 L159.5,314.485577" id="Line-2" stroke="#F8AFA0" stroke-linecap="square"></path>
+        </g>
+    </g>
+</svg>
